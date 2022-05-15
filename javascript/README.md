@@ -1,0 +1,3 @@
+This is a zone or folder that contain other folders with AI projects.
+
+This projects are made with Javascript and others...
